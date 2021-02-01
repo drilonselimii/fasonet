@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@900&display=swap');
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 24px 12px 48px;
+    background-color: #F2F1F5;
+}
+.fasonet{
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.navbar__img{
+    height: 35px;
+    border-radius: 50%;
+}
