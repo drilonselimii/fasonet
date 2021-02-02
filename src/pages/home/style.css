@@ -1,4 +1,4 @@
 .home{
-    background-image: linear-gradient(white, #1F305E);
-    height: 100vh;
+    background-image: repeating-linear-gradient(120deg , white, #1F305E);
+    min-height: 100vh;
 }

@@ -20,6 +20,7 @@
 .createPost__uploadBtn {
     border: none;
     background-color: white;
+    cursor: pointer;
 }
 
 .createPost__loggedInBottom{
@@ -46,6 +47,8 @@
 
 #image-preview {
     display: none;
-    height: 120px;
+    height: 80px;
+    margin: 10px 0px;
+    border-radius: 5px;
 }
 
